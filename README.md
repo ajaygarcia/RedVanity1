@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RedVanity1
-- 👀 I’m interested in Cybersecurity as well as Artificial Intelligence
+- 👀 I’m interested in Software Development as well as Artificial Intelligence
 - 🌱 I’m currently studying Computer Science
 - 📫 How to reach me:
 email: aivanjoshua.garcia@gmail.com
